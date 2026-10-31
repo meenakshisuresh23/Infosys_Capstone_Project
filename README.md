@@ -8,3 +8,8 @@ Interactive Learning: Allows users to interact with the AI assistant.
 Natural Language Understanding: Accepts questions in natural language.
 Real-Time Responses: Generates responses through the Gemini API.
 User-Friendly Interface: Provides an accessible interface for interacting with the AI model.
+
+Try the application here:
+[**AI Learning Buddy – Live Application**](https://infosyscapstoneproject-3qd3jtwkxgteidmswjpm8r.streamlit.app/)
+
+
